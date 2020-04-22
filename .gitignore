@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings
+.pydevproject
+.clover
+target
+build
+out
+maven-eclipse.xml
+.idea
+.gradle
+*.iml
+**/log4j2-debug.xml
+**/.checkstyle
